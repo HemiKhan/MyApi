@@ -1,0 +1,17 @@
+E:\Programing\MyProjects\MainApi\Data\bin\Debug\net6.0\Data.deps.json
+E:\Programing\MyProjects\MainApi\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+E:\Programing\MyProjects\MainApi\Data\bin\Debug\net6.0\Data.dll
+E:\Programing\MyProjects\MainApi\Data\bin\Debug\net6.0\Data.pdb
+E:\Programing\MyProjects\MainApi\Data\bin\Debug\net6.0\Models.dll
+E:\Programing\MyProjects\MainApi\Data\bin\Debug\net6.0\Models.pdb
+E:\Programing\MyProjects\MainApi\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+E:\Programing\MyProjects\MainApi\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\MyProjects\MainApi\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+E:\Programing\MyProjects\MainApi\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+E:\Programing\MyProjects\MainApi\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+E:\Programing\MyProjects\MainApi\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+E:\Programing\MyProjects\MainApi\Data\obj\Debug\net6.0\Data.dll
+E:\Programing\MyProjects\MainApi\Data\obj\Debug\net6.0\refint\Data.dll
+E:\Programing\MyProjects\MainApi\Data\obj\Debug\net6.0\Data.pdb
+E:\Programing\MyProjects\MainApi\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+E:\Programing\MyProjects\MainApi\Data\obj\Debug\net6.0\ref\Data.dll
