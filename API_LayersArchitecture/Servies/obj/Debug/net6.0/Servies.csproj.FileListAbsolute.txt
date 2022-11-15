@@ -1,0 +1,17 @@
+E:\Programing\Applicatons\MyApi\API_LayersArchitecture\Servies\bin\Debug\net6.0\Servies.deps.json
+E:\Programing\Applicatons\MyApi\API_LayersArchitecture\Servies\bin\Debug\net6.0\Servies.dll
+E:\Programing\Applicatons\MyApi\API_LayersArchitecture\Servies\bin\Debug\net6.0\Servies.pdb
+E:\Programing\Applicatons\MyApi\API_LayersArchitecture\Servies\bin\Debug\net6.0\Data.dll
+E:\Programing\Applicatons\MyApi\API_LayersArchitecture\Servies\bin\Debug\net6.0\Models.dll
+E:\Programing\Applicatons\MyApi\API_LayersArchitecture\Servies\bin\Debug\net6.0\Data.pdb
+E:\Programing\Applicatons\MyApi\API_LayersArchitecture\Servies\bin\Debug\net6.0\Models.pdb
+E:\Programing\Applicatons\MyApi\API_LayersArchitecture\Servies\obj\Debug\net6.0\Servies.csproj.AssemblyReference.cache
+E:\Programing\Applicatons\MyApi\API_LayersArchitecture\Servies\obj\Debug\net6.0\Servies.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\Applicatons\MyApi\API_LayersArchitecture\Servies\obj\Debug\net6.0\Servies.AssemblyInfoInputs.cache
+E:\Programing\Applicatons\MyApi\API_LayersArchitecture\Servies\obj\Debug\net6.0\Servies.AssemblyInfo.cs
+E:\Programing\Applicatons\MyApi\API_LayersArchitecture\Servies\obj\Debug\net6.0\Servies.csproj.CoreCompileInputs.cache
+E:\Programing\Applicatons\MyApi\API_LayersArchitecture\Servies\obj\Debug\net6.0\Servies.csproj.CopyComplete
+E:\Programing\Applicatons\MyApi\API_LayersArchitecture\Servies\obj\Debug\net6.0\Servies.dll
+E:\Programing\Applicatons\MyApi\API_LayersArchitecture\Servies\obj\Debug\net6.0\refint\Servies.dll
+E:\Programing\Applicatons\MyApi\API_LayersArchitecture\Servies\obj\Debug\net6.0\Servies.pdb
+E:\Programing\Applicatons\MyApi\API_LayersArchitecture\Servies\obj\Debug\net6.0\ref\Servies.dll

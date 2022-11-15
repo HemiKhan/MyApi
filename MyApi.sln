@@ -7,13 +7,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API_LayersArchitecture", "A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API_CleanArchitecture", "API_CleanArchitecture", "{BE504269-882A-4F63-B6F6-2E452D8CAFAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "API_LayersArchitecture\Data\Data.csproj", "{5B76F146-F8D5-48AC-90D7-847784AC14D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "API_LayersArchitecture\Data\Data.csproj", "{5B76F146-F8D5-48AC-90D7-847784AC14D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "API_LayersArchitecture\Models\Models.csproj", "{81F40CFE-69FF-4C2C-8759-260A782A813B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "API_LayersArchitecture\Models\Models.csproj", "{81F40CFE-69FF-4C2C-8759-260A782A813B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servies", "API_LayersArchitecture\Servies\Servies.csproj", "{B43CCC20-F41C-4AB1-A5BC-EAA97AC552F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Servies", "API_LayersArchitecture\Servies\Servies.csproj", "{B43CCC20-F41C-4AB1-A5BC-EAA97AC552F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App_LayersArchitecture", "API_LayersArchitecture\App_LayersArchitecture\App_LayersArchitecture.csproj", "{3E17A4C3-6B3C-452D-B9C1-1AAE24BCAB84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App_LayersArchitecture", "API_LayersArchitecture\App_LayersArchitecture\App_LayersArchitecture.csproj", "{3E17A4C3-6B3C-452D-B9C1-1AAE24BCAB84}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D37718DD-12F8-44FC-A6C9-AC75362AFC02}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
