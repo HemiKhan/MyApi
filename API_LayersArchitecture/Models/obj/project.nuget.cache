@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p7C7Og7n3DQWemJd9FgtKSp9Hv1HZ8Lcxm4aeS2POwp80ZOX45R2/v7Xb6vwQgPJLpKTKBdq2Z02OU5fXfaIkQ==",
+  "dgSpecHash": "CBe3zuQbqPRUBPlptNpe7gDINSgmeMP+30GRpD0I80WwzLftIILIG6FrLjNxuWwHSb91esTsPI4d34+imPT9Yg==",
   "success": true,
-  "projectFilePath": "E:\\Programing\\api\\MyApi\\API_LayersArchitecture\\Models\\Models.csproj",
+  "projectFilePath": "E:\\Programing\\Applicatons\\MyApi\\API_LayersArchitecture\\Models\\Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

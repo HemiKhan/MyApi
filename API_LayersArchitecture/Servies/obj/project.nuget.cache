@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vDn+Iu0JPmghQ6C+5NsxTD7Vt2tEK99dL2dnovEc8fedPVwouJJcJfWx8Rg1Kw2fAmQNhEaehw0L8MB7c3+VwQ==",
+  "dgSpecHash": "XxLCvVtdK1FUBMJqC0wEa7KprVwHLhd9RPjUT9UTO9Hs7A8BHprbweyy4H+cofdsTHmRI07ddQS5UCnm3/sijQ==",
   "success": true,
-  "projectFilePath": "E:\\Programing\\api\\MyApi\\API_LayersArchitecture\\Servies\\Servies.csproj",
+  "projectFilePath": "E:\\Programing\\Applicatons\\MyApi\\API_LayersArchitecture\\Servies\\Servies.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

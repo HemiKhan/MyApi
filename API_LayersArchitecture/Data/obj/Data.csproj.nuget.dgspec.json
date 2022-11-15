@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programing\\api\\MyApi\\API_LayersArchitecture\\Data\\Data.csproj": {}
+    "E:\\Programing\\Applicatons\\MyApi\\API_LayersArchitecture\\Data\\Data.csproj": {}
   },
   "projects": {
-    "E:\\Programing\\api\\MyApi\\API_LayersArchitecture\\Data\\Data.csproj": {
+    "E:\\Programing\\Applicatons\\MyApi\\API_LayersArchitecture\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programing\\api\\MyApi\\API_LayersArchitecture\\Data\\Data.csproj",
+        "projectUniqueName": "E:\\Programing\\Applicatons\\MyApi\\API_LayersArchitecture\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "E:\\Programing\\api\\MyApi\\API_LayersArchitecture\\Data\\Data.csproj",
+        "projectPath": "E:\\Programing\\Applicatons\\MyApi\\API_LayersArchitecture\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Muhammad Hammas Khan\\.nuget\\packages\\",
-        "outputPath": "E:\\Programing\\api\\MyApi\\API_LayersArchitecture\\Data\\obj\\",
+        "outputPath": "E:\\Programing\\Applicatons\\MyApi\\API_LayersArchitecture\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
