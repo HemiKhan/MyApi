@@ -28,17 +28,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{15956F82-9EC2-48E9-9812-19E81605DA26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "API_CleanArchitecture\Core\Domain\Domain.csproj", "{B831B5DF-679C-46A3-AD30-BB12D7CF8CCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "API_CleanArchitecture\Core\Domain\Domain.csproj", "{B831B5DF-679C-46A3-AD30-BB12D7CF8CCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "API_CleanArchitecture\Core\Application\Application.csproj", "{4FD399DF-096D-4E67-9385-2DD0C5C02380}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "API_CleanArchitecture\Core\Application\Application.csproj", "{4FD399DF-096D-4E67-9385-2DD0C5C02380}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "API_CleanArchitecture\Infrastructure\Infrastructure\Infrastructure.csproj", "{55876B04-67CA-4E67-91D0-148D53167278}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "API_CleanArchitecture\Infrastructure\Infrastructure\Infrastructure.csproj", "{55876B04-67CA-4E67-91D0-148D53167278}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "API_CleanArchitecture\Infrastructure\Persistence\Persistence.csproj", "{1BB00983-F128-4EB7-84C9-DBB7A8E2CD69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "API_CleanArchitecture\Infrastructure\Persistence\Persistence.csproj", "{1BB00983-F128-4EB7-84C9-DBB7A8E2CD69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedKernel", "API_CleanArchitecture\Common\SharedKernel\SharedKernel.csproj", "{4A91E6E8-9261-4D80-A46F-1757A35406D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedKernel", "API_CleanArchitecture\Common\SharedKernel\SharedKernel.csproj", "{4A91E6E8-9261-4D80-A46F-1757A35406D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App_CleanArchitecture", "API_CleanArchitecture\Presentation\App_CleanArchitecture\App_CleanArchitecture.csproj", "{ED994D53-6604-4F7E-B058-106BB571E1BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App_CleanArchitecture", "API_CleanArchitecture\Presentation\App_CleanArchitecture\App_CleanArchitecture.csproj", "{ED994D53-6604-4F7E-B058-106BB571E1BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ADO", "ADO", "{47099DDF-FA6E-4526-9F29-32971954CABF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

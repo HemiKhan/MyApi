@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "qzAWRzemI6rJE5ORhXJu9ncoMDBSWgh1wfTdiA92pbLRQvLTRe81moMXTkO1cnOCPfazZ3tCykLLmjG3g0I+VA==",
+  "dgSpecHash": "UziDAhJwB/quyXb3YPa6E3n4TrZR4HMx4aFJS3yLfGoYTyntC3YGkUMHB1aOd7ObOzfZrl/MVMwg6lbsXQbdtA==",
   "success": true,
   "projectFilePath": "E:\\Programing\\Applicatons\\MyApi\\API_CleanArchitecture\\Common\\SharedKernel\\SharedKernel.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammad Hammas Khan\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Muhammad Hammas Khan\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

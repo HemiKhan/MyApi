@@ -1,0 +1,12 @@
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Common\SharedKernel\bin\Debug\net6.0\SharedKernel.deps.json
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Common\SharedKernel\bin\Debug\net6.0\SharedKernel.dll
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Common\SharedKernel\bin\Debug\net6.0\SharedKernel.pdb
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Common\SharedKernel\obj\Debug\net6.0\SharedKernel.csproj.AssemblyReference.cache
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Common\SharedKernel\obj\Debug\net6.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Common\SharedKernel\obj\Debug\net6.0\SharedKernel.AssemblyInfoInputs.cache
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Common\SharedKernel\obj\Debug\net6.0\SharedKernel.AssemblyInfo.cs
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Common\SharedKernel\obj\Debug\net6.0\SharedKernel.csproj.CoreCompileInputs.cache
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Common\SharedKernel\obj\Debug\net6.0\SharedKernel.dll
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Common\SharedKernel\obj\Debug\net6.0\refint\SharedKernel.dll
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Common\SharedKernel\obj\Debug\net6.0\SharedKernel.pdb
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Common\SharedKernel\obj\Debug\net6.0\ref\SharedKernel.dll

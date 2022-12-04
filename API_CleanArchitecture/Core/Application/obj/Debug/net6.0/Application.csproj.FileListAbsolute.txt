@@ -1,0 +1,17 @@
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Core\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Core\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Core\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Core\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Core\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Core\Application\bin\Debug\net6.0\Application.deps.json
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Core\Application\bin\Debug\net6.0\Application.dll
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Core\Application\bin\Debug\net6.0\Application.pdb
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Core\Application\bin\Debug\net6.0\Domain.dll
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Core\Application\bin\Debug\net6.0\SharedKernel.dll
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Core\Application\bin\Debug\net6.0\SharedKernel.pdb
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Core\Application\bin\Debug\net6.0\Domain.pdb
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Core\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Core\Application\obj\Debug\net6.0\Application.dll
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Core\Application\obj\Debug\net6.0\refint\Application.dll
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Core\Application\obj\Debug\net6.0\Application.pdb
+E:\Programing\Applicatons\MyApi\API_CleanArchitecture\Core\Application\obj\Debug\net6.0\ref\Application.dll
